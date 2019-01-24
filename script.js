@@ -13,12 +13,12 @@ var Names = ["Attract and Recruit","Induction process","Engage and Reward","Care
 	opacityDefault = 0.8;
 
 var matrix = [
-	[0,0,3,0,5,0], 	// AR
-	[4,0,3,2,4,3], 	// InP
-	[3,3,0,2,3,3], 	// ERw
-	[2,2,2,0,3,3], 	// CDv
-	[5,4,3,3,0,2], 	// SpA
-	[2,3,3,3,2,0], 	// ToA
+	[0,1,1,1,1,1], 	// AR
+	[1,0,1,1,1,1], 	// InP
+	[1,1,0,1,1,1], 	// ERw
+	[2,2,2,0,3,1], 	// CDv
+	[5,4,3,3,0,1], 	// SpA
+	[1,1,1,1,1,0], 	// ToA
 ];
 
 
