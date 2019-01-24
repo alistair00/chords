@@ -9,7 +9,7 @@ var margin = {left:20, top:20, right:20, bottom:20},
     outerRadius = innerRadius * 1.1;
 	
 var Names = ["Attract and Recruit","Induction process","Engage and Reward","Career Development","Succession plans, Advancement","Transition Out, Alumni"],
-	colors = ["#301E1E", "#083E77", "#342350", "#567235", "#8B161C", "#DF7C00"],
+	colors = ["#e9a3c9","#fde0ef","#f7f7f7","#e6f5d0","#a1d76a","#4d9221"],
 	opacityDefault = 0.8;
 
 var matrix = [
