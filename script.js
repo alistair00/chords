@@ -13,7 +13,7 @@ var Names = ["Attract and Recruit","Induction process","Engage and Reward","Care
 	opacityDefault = 0.8;
 
 var matrix = [
-	[0,4,3,2,5,2], 	// AR
+	[0,44,3,2,5,2], 	// AR
 	[4,0,3,2,4,3], 	// InP
 	[3,3,0,2,3,3], 	// ERw
 	[2,2,2,0,3,3], 	// CDv
